@@ -17,39 +17,53 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=omonjon3992&style=flat-square&color=6F4E37&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=omonjon3992&style=for-the-badge&color=6F4E37&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-<h2 align="center">01 — ABOUT ME</h2>
+<h2 align="center">01 / ABOUT ME</h2>
+
+<div align="center">
+
+### Engineering Ideas Into Reality.
+
+</div>
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
-### Hello, I'm Omonjon.
+I'm **Omonjon Xayrullayev**, a Computer Science student and software developer from Uzbekistan.
 
-I'm a Computer Science student and software developer from Uzbekistan.
+My passion lies in building intelligent software products, designing scalable systems, and exploring the possibilities of artificial intelligence.
 
-I build software products that combine modern engineering, artificial intelligence, and practical problem-solving.
+I enjoy turning complex ideas into practical applications that solve real-world problems.
 
-My interests include AI-powered applications, full-stack development, backend architecture, and technology entrepreneurship.
+**My approach is simple:**
 
-**I believe in building products, not just writing code.**
+- Think beyond conventional solutions.
+- Build with modern technologies.
+- Focus on quality and scalability.
+- Keep learning and improving.
 
 </td>
-<td width="40%" valign="top">
+<td width="35%" valign="top">
 
-### Quick Profile
+### PROFILE
 
-- 🎓 B.Tech Computer Science
-- 🌍 Uzbekistan
-- 🤖 AI & LLM Development
-- 💻 Full-Stack Engineering
-- 🚀 Independent Products
-- ☕ Always learning
+🎓 B.Tech Computer Science
+
+🌍 Uzbekistan
+
+🤖 AI & Machine Learning
+
+💻 Full-Stack Development
+
+🚀 Product Engineering
+
+☕ Coffee & Code
 
 </td>
 </tr>
@@ -57,7 +71,7 @@ My interests include AI-powered applications, full-stack development, backend ar
 
 ---
 
-<h2 align="center">02 — TECHNOLOGY STACK</h2>
+<h2 align="center">02 / TECHNICAL EXPERTISE</h2>
 
 <div align="center">
 
@@ -67,7 +81,7 @@ My interests include AI-powered applications, full-stack development, backend ar
 
 <br/><br/>
 
-### Frontend Engineering
+### Frontend Development
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" />
 
@@ -79,7 +93,7 @@ My interests include AI-powered applications, full-stack development, backend ar
 
 <br/><br/>
 
-### DevOps & Development Tools
+### Infrastructure & Tools
 
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vscode&theme=dark" />
 
@@ -87,74 +101,97 @@ My interests include AI-powered applications, full-stack development, backend ar
 
 ---
 
-<h2 align="center">03 — SELECTED PROJECTS</h2>
+<h2 align="center">03 / SELECTED PROJECTS</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🧠 GO IELTS AI</h3>
+<div align="center">
 
-**AI-Powered English Learning Platform**
+### 🧠 GO IELTS AI
 
-An intelligent platform for English language learning and IELTS preparation.
+**AI-Powered Learning Platform**
 
-- CEFR learning paths
+</div>
+
+An intelligent English learning and IELTS preparation ecosystem.
+
+- CEFR-based learning system
 - AI Speaking Examiner
 - AI Writing Evaluation
-- Personalized learning
+- Personalized learning paths
 - IELTS Academic & General
 
-`AI` `LLM` `FastAPI` `Next.js`
+**Technologies**
+
+`Python` `FastAPI` `Next.js` `AI`
 
 **Status:** In Development
 
 </td>
 <td width="50%" valign="top">
 
-<h3>💼 ISHBOR</h3>
+<div align="center">
+
+### 💼 ISHBOR
 
 **Job Marketplace Ecosystem**
 
-A platform connecting employers and job seekers in Uzbekistan.
+</div>
 
-- Job publishing
-- Worker discovery
-- Employer connections
+A platform connecting employers and job seekers across Uzbekistan.
+
+- Job publishing and discovery
+- Worker-employer connections
 - Recruitment workflows
-- Mobile application
+- Mobile application ecosystem
+- Monetization infrastructure
 
-`Node.js` `SQLite` `JavaScript`
+**Technologies**
 
-**Status:** Proprietary Project
+`Node.js` `JavaScript` `SQLite`
+
+**Status:** Proprietary
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-<h3>🏨 MAKON PMS</h3>
+<div align="center">
 
-**Hotel Property Management System**
+### 🏨 MAKON PMS
 
-A modern hotel management platform.
+**Hotel Management System**
 
-- Hotel operations
+</div>
+
+A modern Property Management System designed for hotel operations.
+
 - Reservation management
+- Hotel operations
 - Backend API architecture
 - Modern web interface
 - Database management
 
+**Technologies**
+
 `FastAPI` `Next.js` `PostgreSQL`
 
-**Status:** Proprietary Project
+**Status:** Proprietary
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🌱 TOZA HUDUD</h3>
+<div align="center">
 
-**Smart Waste Management System**
+### 🌱 TOZA HUDUD
+
+**Smart Waste Management**
+
+</div>
 
 An IoT-based smart waste monitoring concept.
 
@@ -162,6 +199,9 @@ An IoT-based smart waste monitoring concept.
 - Fill-level detection
 - ESP32 integration
 - LoRaWAN communication concept
+- Waste management monitoring
+
+**Technologies**
 
 `ESP32` `IoT` `LoRaWAN`
 
@@ -173,7 +213,7 @@ An IoT-based smart waste monitoring concept.
 
 ---
 
-<h2 align="center">04 — GITHUB ANALYTICS</h2>
+<h2 align="center">04 / GITHUB ANALYTICS</h2>
 
 <div align="center">
 
@@ -193,35 +233,76 @@ An IoT-based smart waste monitoring concept.
 
 ---
 
-<h2 align="center">05 — CURRENT FOCUS</h2>
+<h2 align="center">05 / CURRENT FOCUS</h2>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+🤖
+
+**AI Engineering**
+
+LLMs & AI Agents
+
+</td>
+<td align="center" width="25%">
+
+💻
+
+**Software Engineering**
+
+Architecture & APIs
+
+</td>
+<td align="center" width="25%">
+
+🌐
+
+**Full-Stack**
+
+Modern Web Applications
+
+</td>
+<td align="center" width="25%">
+
+🚀
+
+**Product Building**
+
+SaaS & Startups
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">06 / MY PHILOSOPHY</h2>
 
 <div align="center">
 
-| Area | Focus |
-|:---|:---|
-| 🤖 Artificial Intelligence | LLMs, AI Agents, AI Applications |
-| 💻 Software Engineering | Architecture, APIs, Scalable Systems |
-| 🌐 Full-Stack Development | Next.js, React, FastAPI |
-| 🗄️ Database Engineering | PostgreSQL, SQL, Data Modeling |
-| 🚀 Product Development | SaaS, Startups, Automation |
+### "Don't just imagine the future. Build it."
+
+*Curiosity drives innovation. Engineering makes it real.*
+
+<br/>
 
 </div>
 
 ---
 
-<h2 align="center">06 — CONNECT WITH ME</h2>
+<h2 align="center">07 / CONNECT</h2>
 
 <div align="center">
 
 <a href="https://github.com/omonjon3992">
-<img src="https://img.shields.io/badge/GitHub-1C100D?style=for-the-badge&logo=github&logoColor=D6AD75"/>
+<img src="https://img.shields.io/badge/GITHUB-1C100D?style=for-the-badge&logo=github&logoColor=D6AD75"/>
 </a>
 
 <br/><br/>
 
-### Let's build something meaningful.
-
-*Ideas become products. Products create impact.*
+**Open to interesting ideas, collaborations, and opportunities.**
 
 <br/>
 
