@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:1C100D,25:2B1B16,55:4A3025,80:6F4E37,100:C68E55&text=OMONJON%20XAYRULLAYEV&fontSize=44&fontColor=F5E6D3&animation=fadeIn&fontAlignY=42&desc=AI%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=62&descSize=17&descColor=F5E6D3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1C100D,30:3B241B,65:6F4E37,100:C68E55&text=OMONJON%20XAYRULLAYEV&fontSize=43&fontColor=F5E6D3&animation=twinkling&fontAlignY=40&desc=AI%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=60&descSize=17&descColor=F5E6D3"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=D6AD75&center=true&vCenter=true&width=700&lines=Building+intelligent+software+solutions;Developing+AI-powered+applications;Turning+ideas+into+real-world+products;Engineering+the+future+with+AI."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=D6AD75&center=true&vCenter=true&width=750&height=80&lines=AI+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Software+Product+Builder+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%E2%9C%A8;Building+the+Future+with+AI"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/omonjon3992">
 <img src="https://img.shields.io/badge/GITHUB-1C100D?style=for-the-badge&logo=github&logoColor=D6AD75"/>
@@ -39,16 +39,16 @@
 
 I'm a Computer Science student and software developer from Uzbekistan.
 
-My passion lies in building intelligent software products, designing scalable systems, and exploring the possibilities of artificial intelligence.
+I focus on building intelligent software products, scalable systems, and AI-powered applications.
 
-I enjoy transforming complex ideas into practical applications that solve real-world problems.
+I enjoy transforming ambitious ideas into practical technology products.
 
-**My engineering principles:**
+**My principles:**
 
-- Think beyond conventional solutions.
-- Build with modern technologies.
-- Focus on quality and scalability.
-- Continuously learn and improve.
+- Think creatively.
+- Engineer intelligently.
+- Build scalable solutions.
+- Never stop learning.
 
 </td>
 <td width="35%" valign="top">
@@ -77,27 +77,19 @@ I enjoy transforming complex ideas into practical applications that solve real-w
 
 ## 02 — TECHNICAL EXPERTISE
 
-*Technologies I use to build modern software.*
-
 ### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c&theme=dark"/>
-
-<br/><br/>
 
 ### Frontend Development
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark"/>
 
-<br/><br/>
-
 ### Backend & Database
 
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,sqlite,supabase,redis&theme=dark"/>
 
-<br/><br/>
-
-### DevOps & Development Tools
+### DevOps & Tools
 
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vscode&theme=dark"/>
 
@@ -125,24 +117,18 @@ I enjoy transforming complex ideas into practical applications that solve real-w
 
 </div>
 
-An intelligent English learning and IELTS preparation platform designed to help learners improve their language skills through personalized AI-powered education.
-
-**KEY FEATURES**
+An AI-powered English learning and IELTS preparation platform.
 
 - CEFR A0–C1 learning paths
 - AI Speaking Examiner
 - AI Writing Evaluation
 - IELTS Academic & General
-- Personalized learning experience
+- Personalized learning
 
-**TECHNOLOGY**
-
-`Python` `FastAPI` `Next.js` `PostgreSQL` `Redis` `AI`
+`Python` `FastAPI` `Next.js` `PostgreSQL` `AI`
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-C68E55?style=for-the-badge&labelColor=2B1B16"/>
-
+<img src="https://img.shields.io/badge/IN%20DEVELOPMENT-C68E55?style=for-the-badge&labelColor=2B1B16"/>
 </div>
 
 </td>
@@ -156,29 +142,22 @@ An intelligent English learning and IELTS preparation platform designed to help 
 
 </div>
 
-A job marketplace ecosystem designed to connect employers and job seekers across Uzbekistan.
+A job marketplace connecting employers and job seekers in Uzbekistan.
 
-**KEY FEATURES**
-
-- Job publishing and discovery
-- Employer-worker connections
+- Job publishing
+- Worker discovery
 - Recruitment workflows
-- Mobile application ecosystem
-- Monetization infrastructure
-
-**TECHNOLOGY**
+- Mobile application
+- Monetization
 
 `Node.js` `JavaScript` `SQLite`
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-PROPRIETARY-C68E55?style=for-the-badge&labelColor=2B1B16"/>
-
+<img src="https://img.shields.io/badge/PROPRIETARY-C68E55?style=for-the-badge&labelColor=2B1B16"/>
 </div>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -190,24 +169,18 @@ A job marketplace ecosystem designed to connect employers and job seekers across
 
 </div>
 
-A modern Property Management System designed to simplify hotel operations and reservation management.
-
-**KEY FEATURES**
+A modern Property Management System for hotel operations.
 
 - Reservation management
-- Hotel operations
 - Guest management
-- Backend API architecture
+- Hotel operations
+- Backend API
 - Modern web interface
-
-**TECHNOLOGY**
 
 `FastAPI` `Next.js` `PostgreSQL`
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-PROPRIETARY-C68E55?style=for-the-badge&labelColor=2B1B16"/>
-
+<img src="https://img.shields.io/badge/PROPRIETARY-C68E55?style=for-the-badge&labelColor=2B1B16"/>
 </div>
 
 </td>
@@ -221,24 +194,18 @@ A modern Property Management System designed to simplify hotel operations and re
 
 </div>
 
-An IoT-based smart waste management concept focused on monitoring waste container capacity.
-
-**KEY FEATURES**
+An IoT-based smart waste monitoring concept.
 
 - Smart bin monitoring
 - Fill-level detection
 - ESP32 integration
-- LoRaWAN communication concept
+- LoRaWAN communication
 - Waste collection monitoring
-
-**TECHNOLOGY**
 
 `ESP32` `IoT` `Sensors` `LoRaWAN`
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-IOT%20PROJECT-C68E55?style=for-the-badge&labelColor=2B1B16"/>
-
+<img src="https://img.shields.io/badge/IOT%20PROJECT-C68E55?style=for-the-badge&labelColor=2B1B16"/>
 </div>
 
 </td>
@@ -250,10 +217,6 @@ An IoT-based smart waste management concept focused on monitoring waste containe
 <div align="center">
 
 ## 04 — GITHUB ANALYTICS
-
-*Consistency, progress and continuous improvement.*
-
-<br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=omonjon3992&show_icons=true&hide_border=true&bg_color=1C100D&title_color=D6AD75&icon_color=C68E55&text_color=F5E6D3&rank_icon=github"/>
 
@@ -275,52 +238,11 @@ An IoT-based smart waste management concept focused on monitoring waste containe
 
 ## 05 — CURRENT FOCUS
 
-</div>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🤖
-
-**AI ENGINEERING**
-
-LLMs & AI Agents
-
-</td>
-<td align="center" width="25%">
-
-### 💻
-
-**SOFTWARE ENGINEERING**
-
-Architecture & APIs
-
-</td>
-<td align="center" width="25%">
-
-### 🌐
-
-**FULL-STACK**
-
-Modern Web Applications
-
-</td>
-<td align="center" width="25%">
-
-### 🚀
-
-**PRODUCT BUILDING**
-
-SaaS & Startups
-
-</td>
-</tr>
-</table>
+| 🤖 AI ENGINEERING | 💻 SOFTWARE ENGINEERING | 🌐 FULL-STACK | 🚀 PRODUCT BUILDING |
+|:---:|:---:|:---:|:---:|
+| LLMs & AI Agents | Architecture & APIs | Web Applications | SaaS & Startups |
 
 ---
-
-<div align="center">
 
 ## 06 — MY PHILOSOPHY
 
@@ -328,15 +250,9 @@ SaaS & Startups
 
 *Curiosity drives innovation. Engineering makes it real.*
 
-<br/>
-
 ---
 
 ## 07 — LET'S CONNECT
-
-**Open to interesting ideas, collaborations, and opportunities.**
-
-<br/>
 
 <a href="https://github.com/omonjon3992">
 <img src="https://img.shields.io/badge/GITHUB-1C100D?style=for-the-badge&logo=github&logoColor=D6AD75"/>
@@ -344,7 +260,7 @@ SaaS & Startups
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:1C100D,40:3B241B,75:6F4E37,100:C68E55&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1C100D,50:6F4E37,100:C68E55"/>
 
 **© 2026 Omonjon Xayrullayev**
 
