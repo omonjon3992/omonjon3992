@@ -9,125 +9,171 @@
 <br/><br/>
 
 <a href="https://github.com/omonjon3992">
-<img src="https://img.shields.io/badge/GitHub-1C100D?style=for-the-badge&logo=github&logoColor=D6AD75"/>
+<img src="https://img.shields.io/badge/GITHUB-1C100D?style=for-the-badge&logo=github&logoColor=D6AD75"/>
 </a>
 <a href="https://github.com/omonjon3992?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-3B241B?style=for-the-badge&logo=github&logoColor=C68E55"/>
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-3B241B?style=for-the-badge&logo=github&logoColor=D6AD75"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=omonjon3992&style=flat-square&color=6F4E37&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 👨‍💻 ABOUT ME
+<h2 align="center">01 — ABOUT ME</h2>
 
-I'm **Omonjon Xayrullayev**, a Computer Science student, software developer, and technology enthusiast from Uzbekistan.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-I focus on building intelligent applications, scalable software systems, and AI-powered products.
+### Hello, I'm Omonjon.
+
+I'm a Computer Science student and software developer from Uzbekistan.
+
+I build software products that combine modern engineering, artificial intelligence, and practical problem-solving.
+
+My interests include AI-powered applications, full-stack development, backend architecture, and technology entrepreneurship.
+
+**I believe in building products, not just writing code.**
+
+</td>
+<td width="40%" valign="top">
+
+### Quick Profile
 
 - 🎓 B.Tech Computer Science
-- 🤖 Artificial Intelligence & LLM Applications
-- 💻 Full-Stack Development
-- 🚀 Independent Product Development
 - 🌍 Uzbekistan
+- 🤖 AI & LLM Development
+- 💻 Full-Stack Engineering
+- 🚀 Independent Products
+- ☕ Always learning
 
-> "Great software starts with a simple idea and grows through engineering."
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 TECHNOLOGY STACK
+<h2 align="center">02 — TECHNOLOGY STACK</h2>
+
+<div align="center">
 
 ### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c&theme=dark" />
 
-### Frontend Development
+<br/><br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark"/>
-</p>
+### Frontend Engineering
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" />
+
+<br/><br/>
 
 ### Backend & Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,sqlite,supabase,redis&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,sqlite,supabase,redis&theme=dark" />
 
-### Infrastructure & Tools
+<br/><br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vscode&theme=dark"/>
-</p>
+### DevOps & Development Tools
+
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vscode&theme=dark" />
+
+</div>
 
 ---
 
-## 🚀 SELECTED PROJECTS
+<h2 align="center">03 — SELECTED PROJECTS</h2>
 
-### 🧠 GO IELTS AI
-**AI-Powered English Learning & IELTS Platform**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An intelligent learning platform designed to help students improve their English skills and prepare for IELTS.
+<h3>🧠 GO IELTS AI</h3>
 
-- AI-powered speaking assessment
-- Writing evaluation
-- CEFR-based learning paths
-- Personalized learning experience
+**AI-Powered English Learning Platform**
+
+An intelligent platform for English language learning and IELTS preparation.
+
+- CEFR learning paths
+- AI Speaking Examiner
+- AI Writing Evaluation
+- Personalized learning
+- IELTS Academic & General
 
 `AI` `LLM` `FastAPI` `Next.js`
 
 **Status:** In Development
 
----
+</td>
+<td width="50%" valign="top">
 
-### 💼 ISHBOR
-**Job Marketplace Platform**
+<h3>💼 ISHBOR</h3>
 
-A job marketplace connecting employers and workers in Uzbekistan.
+**Job Marketplace Ecosystem**
 
-- Job publishing and discovery
-- Employer-worker connections
+A platform connecting employers and job seekers in Uzbekistan.
+
+- Job publishing
+- Worker discovery
+- Employer connections
 - Recruitment workflows
-- Mobile application ecosystem
+- Mobile application
 
-`Node.js` `JavaScript` `SQLite`
+`Node.js` `SQLite` `JavaScript`
 
-**Status:** Private · Proprietary Project
+**Status:** Proprietary Project
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🏨 MAKON PMS
+<h3>🏨 MAKON PMS</h3>
+
 **Hotel Property Management System**
 
-A hotel management platform designed to simplify hotel operations.
+A modern hotel management platform.
 
-- Hotel management architecture
+- Hotel operations
 - Reservation management
-- Backend API
+- Backend API architecture
 - Modern web interface
+- Database management
 
 `FastAPI` `Next.js` `PostgreSQL`
 
-**Status:** Private · Proprietary Project
+**Status:** Proprietary Project
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🌱 TOZA HUDUD
-**Smart Waste Management | IoT**
+<h3>🌱 TOZA HUDUD</h3>
 
-An intelligent waste monitoring concept using connected smart bins.
+**Smart Waste Management System**
 
-- ESP32-based monitoring
+An IoT-based smart waste monitoring concept.
+
+- Smart bin monitoring
 - Fill-level detection
+- ESP32 integration
 - LoRaWAN communication concept
-- Smart waste management
 
 `ESP32` `IoT` `LoRaWAN`
 
+**Status:** Development Concept
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 📊 GITHUB STATISTICS
+<h2 align="center">04 — GITHUB ANALYTICS</h2>
 
 <div align="center">
 
@@ -137,40 +183,50 @@ An intelligent waste monitoring concept using connected smart bins.
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=omonjon3992&hide_border=true&background=1C100D&ring=C68E55&fire=D6AD75&currStreakLabel=D6AD75&sideLabels=F5E6D3&dates=8F7564&currStreakNum=F5E6D3&sideNums=F5E6D3"/>
+<img width="85%" src="https://streak-stats.demolab.com?user=omonjon3992&hide_border=true&background=1C100D&ring=C68E55&fire=D6AD75&currStreakLabel=D6AD75&sideLabels=F5E6D3&dates=8F7564&currStreakNum=F5E6D3&sideNums=F5E6D3"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=omonjon3992&bg_color=1C100D&color=F5E6D3&line=C68E55&point=D6AD75&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
 ---
 
-## 🎯 CURRENT FOCUS
-
-- Building AI-powered products
-- Exploring LLMs and AI Agents
-- Developing scalable backend architectures
-- Improving software engineering skills
-- Creating products that solve real-world problems
-
----
+<h2 align="center">05 — CURRENT FOCUS</h2>
 
 <div align="center">
 
-## LET'S BUILD SOMETHING GREAT.
+| Area | Focus |
+|:---|:---|
+| 🤖 Artificial Intelligence | LLMs, AI Agents, AI Applications |
+| 💻 Software Engineering | Architecture, APIs, Scalable Systems |
+| 🌐 Full-Stack Development | Next.js, React, FastAPI |
+| 🗄️ Database Engineering | PostgreSQL, SQL, Data Modeling |
+| 🚀 Product Development | SaaS, Startups, Automation |
 
-<br/>
+</div>
+
+---
+
+<h2 align="center">06 — CONNECT WITH ME</h2>
+
+<div align="center">
 
 <a href="https://github.com/omonjon3992">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-1C100D?style=for-the-badge&logo=github&logoColor=D6AD75"/>
+<img src="https://img.shields.io/badge/GitHub-1C100D?style=for-the-badge&logo=github&logoColor=D6AD75"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=omonjon3992&style=for-the-badge&color=6F4E37&label=PROFILE+VIEWS"/>
+### Let's build something meaningful.
 
-<br/><br/>
+*Ideas become products. Products create impact.*
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:1C100D,50:3B241B,100:C68E55&section=footer"/>
 
-**© Omonjon Xayrullayev · Built with passion & code.**
+**© 2026 Omonjon Xayrullayev**
 
 </div>
