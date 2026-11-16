@@ -1,12 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1C100D,30:3B241B,65:6F4E37,100:C68E55&text=OMONJON%20XAYRULLAYEV&fontSize=43&fontColor=F5E6D3&animation=twinkling&fontAlignY=40&desc=AI%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=60&descSize=17&descColor=F5E6D3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:1C100D,25:2B1B16,55:4A3025,80:6F4E37,100:C68E55&text=OMONJON%20XAYRULLAYEV&fontSize=44&fontColor=F5E6D3&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=55&descSize=17&descColor=F5E6D3"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=D6AD75&center=true&vCenter=true&width=750&height=80&lines=AI+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Software+Product+Builder+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%E2%9C%A8;Building+the+Future+with+AI"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=6000&pause=2000&color=D6AD75&center=true&vCenter=true&width=750&height=65&lines=%E2%9A%9B+ARTIFICIAL+INTELLIGENCE;NEURAL+NETWORKS+%26+DEEP+LEARNING;LARGE+LANGUAGE+MODELS+%28LLMs%29;AUTONOMOUS+AI+AGENTS;BUILDING+INTELLIGENT+SYSTEMS"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=7000&pause=2500&color=C68E55&center=true&vCenter=true&width=650&height=40&lines=Turning+complex+ideas+into+intelligent+products;Engineering+the+future+with+artificial+intelligence"/>
+
+<br/><br/>
 
 <a href="https://github.com/omonjon3992">
 <img src="https://img.shields.io/badge/GITHUB-1C100D?style=for-the-badge&logo=github&logoColor=D6AD75"/>
@@ -39,16 +43,16 @@
 
 I'm a Computer Science student and software developer from Uzbekistan.
 
-I focus on building intelligent software products, scalable systems, and AI-powered applications.
+My passion lies in building intelligent software products, designing scalable systems, and exploring the possibilities of artificial intelligence.
 
 I enjoy transforming ambitious ideas into practical technology products.
 
-**My principles:**
+**My engineering principles:**
 
-- Think creatively.
-- Engineer intelligently.
-- Build scalable solutions.
-- Never stop learning.
+- Think beyond conventional solutions.
+- Build with modern technologies.
+- Focus on quality and scalability.
+- Continuously learn and improve.
 
 </td>
 <td width="35%" valign="top">
@@ -77,19 +81,27 @@ I enjoy transforming ambitious ideas into practical technology products.
 
 ## 02 — TECHNICAL EXPERTISE
 
+*Technologies I use to build modern software.*
+
 ### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c&theme=dark"/>
+
+<br/><br/>
 
 ### Frontend Development
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark"/>
 
+<br/><br/>
+
 ### Backend & Database
 
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,sqlite,supabase,redis&theme=dark"/>
 
-### DevOps & Tools
+<br/><br/>
+
+### DevOps & Development Tools
 
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vscode&theme=dark"/>
 
@@ -117,7 +129,9 @@ I enjoy transforming ambitious ideas into practical technology products.
 
 </div>
 
-An AI-powered English learning and IELTS preparation platform.
+An intelligent English learning and IELTS preparation platform.
+
+**KEY FEATURES**
 
 - CEFR A0–C1 learning paths
 - AI Speaking Examiner
@@ -125,7 +139,9 @@ An AI-powered English learning and IELTS preparation platform.
 - IELTS Academic & General
 - Personalized learning
 
-`Python` `FastAPI` `Next.js` `PostgreSQL` `AI`
+**TECHNOLOGY**
+
+`Python` `FastAPI` `Next.js` `PostgreSQL` `Redis` `AI`
 
 <div align="center">
 <img src="https://img.shields.io/badge/IN%20DEVELOPMENT-C68E55?style=for-the-badge&labelColor=2B1B16"/>
@@ -144,11 +160,15 @@ An AI-powered English learning and IELTS preparation platform.
 
 A job marketplace connecting employers and job seekers in Uzbekistan.
 
+**KEY FEATURES**
+
 - Job publishing
 - Worker discovery
 - Recruitment workflows
 - Mobile application
 - Monetization
+
+**TECHNOLOGY**
 
 `Node.js` `JavaScript` `SQLite`
 
@@ -171,11 +191,15 @@ A job marketplace connecting employers and job seekers in Uzbekistan.
 
 A modern Property Management System for hotel operations.
 
+**KEY FEATURES**
+
 - Reservation management
 - Guest management
 - Hotel operations
 - Backend API
 - Modern web interface
+
+**TECHNOLOGY**
 
 `FastAPI` `Next.js` `PostgreSQL`
 
@@ -196,11 +220,15 @@ A modern Property Management System for hotel operations.
 
 An IoT-based smart waste monitoring concept.
 
+**KEY FEATURES**
+
 - Smart bin monitoring
 - Fill-level detection
 - ESP32 integration
 - LoRaWAN communication
 - Waste collection monitoring
+
+**TECHNOLOGY**
 
 `ESP32` `IoT` `Sensors` `LoRaWAN`
 
@@ -253,6 +281,10 @@ An IoT-based smart waste monitoring concept.
 ---
 
 ## 07 — LET'S CONNECT
+
+**Open to interesting ideas, collaborations, and opportunities.**
+
+<br/>
 
 <a href="https://github.com/omonjon3992">
 <img src="https://img.shields.io/badge/GITHUB-1C100D?style=for-the-badge&logo=github&logoColor=D6AD75"/>
