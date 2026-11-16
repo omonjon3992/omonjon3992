@@ -1,20 +1,26 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:1C100D,25:2B1B16,55:4A3025,80:6F4E37,100:C68E55&text=OMONJON%20XAYRULLAYEV&fontSize=44&fontColor=F5E6D3&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=55&descSize=17&descColor=F5E6D3"/>
+<!-- ANIMATED CHOCOLATE AI BACKGROUND -->
+<img width="100%" src="assets/chocolate-ai-motion.gif" alt="Chocolate AI Neural Network Animation"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=6000&pause=2000&color=D6AD75&center=true&vCenter=true&width=750&height=65&lines=%E2%9A%9B+ARTIFICIAL+INTELLIGENCE;NEURAL+NETWORKS+%26+DEEP+LEARNING;LARGE+LANGUAGE+MODELS+%28LLMs%29;AUTONOMOUS+AI+AGENTS;BUILDING+INTELLIGENT+SYSTEMS"/>
+<h1>OMONJON XAYRULLAYEV</h1>
+
+<h3>AI ENGINEER | SOFTWARE DEVELOPER</h3>
+
+<p>
+Building intelligent software solutions
+<br/>
+Developing AI-powered applications
+</p>
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=7000&pause=2500&color=C68E55&center=true&vCenter=true&width=650&height=40&lines=Turning+complex+ideas+into+intelligent+products;Engineering+the+future+with+artificial+intelligence"/>
-
-<br/><br/>
 
 <a href="https://github.com/omonjon3992">
 <img src="https://img.shields.io/badge/GITHUB-1C100D?style=for-the-badge&logo=github&logoColor=D6AD75"/>
 </a>
+
 <a href="https://github.com/omonjon3992?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-3B241B?style=for-the-badge&logo=github&logoColor=D6AD75"/>
 </a>
@@ -43,7 +49,7 @@
 
 I'm a Computer Science student and software developer from Uzbekistan.
 
-My passion lies in building intelligent software products, designing scalable systems, and exploring the possibilities of artificial intelligence.
+My passion lies in building intelligent software products, designing scalable systems, and exploring artificial intelligence.
 
 I enjoy transforming ambitious ideas into practical technology products.
 
@@ -55,6 +61,7 @@ I enjoy transforming ambitious ideas into practical technology products.
 - Continuously learn and improve.
 
 </td>
+
 <td width="35%" valign="top">
 
 ### PROFILE
@@ -81,8 +88,6 @@ I enjoy transforming ambitious ideas into practical technology products.
 
 ## 02 — TECHNICAL EXPERTISE
 
-*Technologies I use to build modern software.*
-
 ### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c&theme=dark"/>
@@ -101,7 +106,7 @@ I enjoy transforming ambitious ideas into practical technology products.
 
 <br/><br/>
 
-### DevOps & Development Tools
+### DevOps & Tools
 
 <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vscode&theme=dark"/>
 
@@ -119,6 +124,7 @@ I enjoy transforming ambitious ideas into practical technology products.
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 <div align="center">
@@ -129,7 +135,7 @@ I enjoy transforming ambitious ideas into practical technology products.
 
 </div>
 
-An intelligent English learning and IELTS preparation platform.
+AI-powered English learning and IELTS preparation platform.
 
 **KEY FEATURES**
 
@@ -141,13 +147,16 @@ An intelligent English learning and IELTS preparation platform.
 
 **TECHNOLOGY**
 
-`Python` `FastAPI` `Next.js` `PostgreSQL` `Redis` `AI`
+`Python` `FastAPI` `Next.js` `PostgreSQL` `AI`
 
 <div align="center">
+
 <img src="https://img.shields.io/badge/IN%20DEVELOPMENT-C68E55?style=for-the-badge&labelColor=2B1B16"/>
+
 </div>
 
 </td>
+
 <td width="50%" valign="top">
 
 <div align="center">
@@ -173,12 +182,16 @@ A job marketplace connecting employers and job seekers in Uzbekistan.
 `Node.js` `JavaScript` `SQLite`
 
 <div align="center">
+
 <img src="https://img.shields.io/badge/PROPRIETARY-C68E55?style=for-the-badge&labelColor=2B1B16"/>
+
 </div>
 
 </td>
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
 <div align="center">
@@ -204,10 +217,13 @@ A modern Property Management System for hotel operations.
 `FastAPI` `Next.js` `PostgreSQL`
 
 <div align="center">
+
 <img src="https://img.shields.io/badge/PROPRIETARY-C68E55?style=for-the-badge&labelColor=2B1B16"/>
+
 </div>
 
 </td>
+
 <td width="50%" valign="top">
 
 <div align="center">
@@ -233,7 +249,9 @@ An IoT-based smart waste monitoring concept.
 `ESP32` `IoT` `Sensors` `LoRaWAN`
 
 <div align="center">
+
 <img src="https://img.shields.io/badge/IOT%20PROJECT-C68E55?style=for-the-badge&labelColor=2B1B16"/>
+
 </div>
 
 </td>
@@ -266,11 +284,57 @@ An IoT-based smart waste monitoring concept.
 
 ## 05 — CURRENT FOCUS
 
-| 🤖 AI ENGINEERING | 💻 SOFTWARE ENGINEERING | 🌐 FULL-STACK | 🚀 PRODUCT BUILDING |
-|:---:|:---:|:---:|:---:|
-| LLMs & AI Agents | Architecture & APIs | Web Applications | SaaS & Startups |
+</div>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI ENGINEERING**
+
+LLMs & AI Agents
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻
+
+**SOFTWARE ENGINEERING**
+
+Architecture & APIs
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+
+**FULL-STACK**
+
+Modern Web Applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**PRODUCT BUILDING**
+
+SaaS & Startups
+
+</td>
+
+</tr>
+</table>
 
 ---
+
+<div align="center">
 
 ## 06 — MY PHILOSOPHY
 
