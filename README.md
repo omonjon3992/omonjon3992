@@ -1,39 +1,39 @@
-\<div align="center">
+<div align="center">
 
-\<img width="100%" height="250" src="[https://capsule-render.vercel.app/api?type=rect&height=250&color=0:1C100D,25:2B1B16,55:4A3025,80:6F4E37,100\:C68E55&text=OMONJON%20XAYRULLAYEV&fontSize=44&fontColor=F5E6D3&animation=fadeIn&fontAlignY=42&desc=AI%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=62&descSize=17&descColor=F5E6D3](https://capsule-render.vercel.app/api?type=rect\&height=250\&color=0:1C100D,25:2B1B16,55:4A3025,80:6F4E37,100\:C68E55\&text=OMONJON%20XAYRULLAYEV\&fontSize=44\&fontColor=F5E6D3\&animation=fadeIn\&fontAlignY=42\&desc=AI%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER\&descAlignY=62\&descSize=17\&descColor=F5E6D3)"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:1C100D,25:2B1B16,55:4A3025,80:6F4E37,100:C68E55&text=OMONJON%20XAYRULLAYEV&fontSize=44&fontColor=F5E6D3&animation=fadeIn&fontAlignY=42&desc=AI%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=62&descSize=17&descColor=F5E6D3"/>
 
-\<br/>
+<br/>
 
-\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=D6AD75&center=true&vCenter=true&width=700&lines=Building+intelligent+software+solutions;Developing+AI-powered+applications;Turning+ideas+into+real-world+products;Engineering+the+future+with+AI](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=18\&duration=3000\&pause=1000\&color=D6AD75\&center=true\&vCenter=true\&width=700\&lines=Building+intelligent+software+solutions;Developing+AI-powered+applications;Turning+ideas+into+real-world+products;Engineering+the+future+with+AI)."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=D6AD75&center=true&vCenter=true&width=700&lines=Building+intelligent+software+solutions;Developing+AI-powered+applications;Turning+ideas+into+real-world+products;Engineering+the+future+with+AI."/>
 
-\<br/>\<br/>
+<br/><br/>
 
-\<a href="[https://github.com/omonjon3992](https://github.com/omonjon3992)">
-\<img src="[https://img.shields.io/badge/GITHUB-1C100D?style=for-the-badge&logo=github&logoColor=D6AD75](https://img.shields.io/badge/GITHUB-1C100D?style=for-the-badge\&logo=github\&logoColor=D6AD75)"/>
-\</a>
-\<a href="[https://github.com/omonjon3992?tab=repositories](https://github.com/omonjon3992?tab=repositories)">
-\<img src="[https://img.shields.io/badge/EXPLORE_PROJECTS-3B241B?style=for-the-badge&logo=github&logoColor=D6AD75](https://img.shields.io/badge/EXPLORE_PROJECTS-3B241B?style=for-the-badge\&logo=github\&logoColor=D6AD75)"/>
-\</a>
+<a href="https://github.com/omonjon3992">
+<img src="https://img.shields.io/badge/GITHUB-1C100D?style=for-the-badge&logo=github&logoColor=D6AD75"/>
+</a>
+<a href="https://github.com/omonjon3992?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-3B241B?style=for-the-badge&logo=github&logoColor=D6AD75"/>
+</a>
 
-\<br/>\<br/>
+<br/><br/>
 
-\<img src="[https://komarev.com/ghpvc/?username=omonjon3992&style=for-the-badge&color=C68E55&labelColor=3B241B&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=omonjon3992\&style=for-the-badge\&color=C68E55\&labelColor=3B241B\&label=PROFILE+VIEWS)"/>
+<img src="https://komarev.com/ghpvc/?username=omonjon3992&style=for-the-badge&color=C68E55&labelColor=3B241B&label=PROFILE+VIEWS"/>
 
-\</div>
+</div>
 
 ---
 
-\<div align="center">
+<div align="center">
 
-# 01 / ABOUT ME
+## 01 — ABOUT ME
 
 ### Engineering Ideas Into Reality.
 
-\</div>
+</div>
 
-\<table>
-\<tr>
-\<td width="65%" valign="top">
+<table>
+<tr>
+<td width="65%" valign="top">
 
 ### Hello, I'm Omonjon!
 
@@ -50,8 +50,8 @@ I enjoy transforming complex ideas into practical applications that solve real-w
 - Focus on quality and scalability.
 - Continuously learn and improve.
 
-\</td>
-\<td width="35%" valign="top">
+</td>
+<td width="35%" valign="top">
 
 ### PROFILE
 
@@ -67,63 +67,63 @@ I enjoy transforming complex ideas into practical applications that solve real-w
 
 ☕ Coffee & Code
 
-\</td>
-\</tr>
-\</table>
+</td>
+</tr>
+</table>
 
 ---
 
-\<div align="center">
+<div align="center">
 
-# 02 / TECHNICAL EXPERTISE
+## 02 — TECHNICAL EXPERTISE
 
 *Technologies I use to build modern software.*
 
 ### Programming Languages
 
-\<img src="[https://skillicons.dev/icons?i=python,typescript,javascript,java,c&theme=dark](https://skillicons.dev/icons?i=python,typescript,javascript,java,c\&theme=dark)"/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c&theme=dark"/>
 
-\<br/>\<br/>
+<br/><br/>
 
 ### Frontend Development
 
-\<img src="[https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark](https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css\&theme=dark)"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark"/>
 
-\<br/>\<br/>
+<br/><br/>
 
 ### Backend & Database
 
-\<img src="[https://skillicons.dev/icons?i=fastapi,nodejs,postgres,sqlite,supabase,redis&theme=dark](https://skillicons.dev/icons?i=fastapi,nodejs,postgres,sqlite,supabase,redis\&theme=dark)"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,sqlite,supabase,redis&theme=dark"/>
 
-\<br/>\<br/>
+<br/><br/>
 
 ### DevOps & Development Tools
 
-\<img src="[https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vscode&theme=dark](https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vscode\&theme=dark)"/>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vscode&theme=dark"/>
 
-\</div>
+</div>
 
 ---
 
-\<div align="center">
+<div align="center">
 
-# 03 / FEATURED PROJECTS
+## 03 — FEATURED PROJECTS
 
 *Building products. Solving problems. Creating impact.*
 
-\</div>
+</div>
 
-\<table>
-\<tr>
-\<td width="50%" valign="top">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-\<div align="center">
+<div align="center">
 
-## 🧠 GO IELTS AI
+### 🧠 GO IELTS AI
 
 **AI-POWERED EDUCATION**
 
-\</div>
+</div>
 
 An intelligent English learning and IELTS preparation platform designed to help learners improve their language skills through personalized AI-powered education.
 
@@ -139,22 +139,22 @@ An intelligent English learning and IELTS preparation platform designed to help 
 
 `Python` `FastAPI` `Next.js` `PostgreSQL` `Redis` `AI`
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-C68E55?style=for-the-badge&labelColor=2B1B16](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-C68E55?style=for-the-badge\&labelColor=2B1B16)"/>
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-C68E55?style=for-the-badge&labelColor=2B1B16"/>
 
-\</div>
+</div>
 
-\</td>
-\<td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-\<div align="center">
+<div align="center">
 
-## 💼 ISHBOR
+### 💼 ISHBOR
 
 **JOB MARKETPLACE**
 
-\</div>
+</div>
 
 A job marketplace ecosystem designed to connect employers and job seekers across Uzbekistan.
 
@@ -170,25 +170,25 @@ A job marketplace ecosystem designed to connect employers and job seekers across
 
 `Node.js` `JavaScript` `SQLite`
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://img.shields.io/badge/STATUS-PROPRIETARY-C68E55?style=for-the-badge&labelColor=2B1B16](https://img.shields.io/badge/STATUS-PROPRIETARY-C68E55?style=for-the-badge\&labelColor=2B1B16)"/>
+<img src="https://img.shields.io/badge/STATUS-PROPRIETARY-C68E55?style=for-the-badge&labelColor=2B1B16"/>
 
-\</div>
+</div>
 
-\</td>
-\</tr>
+</td>
+</tr>
 
-\<tr>
-\<td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-\<div align="center">
+<div align="center">
 
-## 🏨 MAKON PMS
+### 🏨 MAKON PMS
 
 **HOTEL MANAGEMENT**
 
-\</div>
+</div>
 
 A modern Property Management System designed to simplify hotel operations and reservation management.
 
@@ -204,22 +204,22 @@ A modern Property Management System designed to simplify hotel operations and re
 
 `FastAPI` `Next.js` `PostgreSQL`
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://img.shields.io/badge/STATUS-PROPRIETARY-C68E55?style=for-the-badge&labelColor=2B1B16](https://img.shields.io/badge/STATUS-PROPRIETARY-C68E55?style=for-the-badge\&labelColor=2B1B16)"/>
+<img src="https://img.shields.io/badge/STATUS-PROPRIETARY-C68E55?style=for-the-badge&labelColor=2B1B16"/>
 
-\</div>
+</div>
 
-\</td>
-\<td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-\<div align="center">
+<div align="center">
 
-## 🌱 TOZA HUDUD
+### 🌱 TOZA HUDUD
 
 **SMART IOT ECOSYSTEM**
 
-\</div>
+</div>
 
 An IoT-based smart waste management concept focused on monitoring waste container capacity.
 
@@ -235,51 +235,51 @@ An IoT-based smart waste management concept focused on monitoring waste containe
 
 `ESP32` `IoT` `Sensors` `LoRaWAN`
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://img.shields.io/badge/STATUS-IOT%20PROJECT-C68E55?style=for-the-badge&labelColor=2B1B16](https://img.shields.io/badge/STATUS-IOT%20PROJECT-C68E55?style=for-the-badge\&labelColor=2B1B16)"/>
+<img src="https://img.shields.io/badge/STATUS-IOT%20PROJECT-C68E55?style=for-the-badge&labelColor=2B1B16"/>
 
-\</div>
+</div>
 
-\</td>
-\</tr>
-\</table>
+</td>
+</tr>
+</table>
 
 ---
 
-\<div align="center">
+<div align="center">
 
-# 04 / GITHUB ANALYTICS
+## 04 — GITHUB ANALYTICS
 
 *Consistency, progress and continuous improvement.*
 
-\<br/>
+<br/>
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=omonjon3992&show_icons=true&hide_border=true&bg_color=1C100D&title_color=D6AD75&icon_color=C68E55&text_color=F5E6D3&rank_icon=github](https://github-readme-stats.vercel.app/api?username=omonjon3992\&show_icons=true\&hide_border=true\&bg_color=1C100D\&title_color=D6AD75\&icon_color=C68E55\&text_color=F5E6D3\&rank_icon=github)"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omonjon3992&show_icons=true&hide_border=true&bg_color=1C100D&title_color=D6AD75&icon_color=C68E55&text_color=F5E6D3&rank_icon=github"/>
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=omonjon3992&layout=compact&hide_border=true&bg_color=1C100D&title_color=D6AD75&text_color=F5E6D3](https://github-readme-stats.vercel.app/api/top-langs/?username=omonjon3992\&layout=compact\&hide_border=true\&bg_color=1C100D\&title_color=D6AD75\&text_color=F5E6D3)"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omonjon3992&layout=compact&hide_border=true&bg_color=1C100D&title_color=D6AD75&text_color=F5E6D3"/>
 
-\<br/>\<br/>
+<br/><br/>
 
-\<img width="85%" src="[https://streak-stats.demolab.com?user=omonjon3992&hide_border=true&background=1C100D&ring=C68E55&fire=D6AD75&currStreakLabel=D6AD75&sideLabels=F5E6D3&dates=8F7564&currStreakNum=F5E6D3&sideNums=F5E6D3](https://streak-stats.demolab.com?user=omonjon3992\&hide_border=true\&background=1C100D\&ring=C68E55\&fire=D6AD75\&currStreakLabel=D6AD75\&sideLabels=F5E6D3\&dates=8F7564\&currStreakNum=F5E6D3\&sideNums=F5E6D3)"/>
+<img width="85%" src="https://streak-stats.demolab.com?user=omonjon3992&hide_border=true&background=1C100D&ring=C68E55&fire=D6AD75&currStreakLabel=D6AD75&sideLabels=F5E6D3&dates=8F7564&currStreakNum=F5E6D3&sideNums=F5E6D3"/>
 
-\<br/>\<br/>
+<br/><br/>
 
-\<img width="95%" src="[https://github-readme-activity-graph.vercel.app/graph?username=omonjon3992&bg_color=1C100D&color=F5E6D3&line=C68E55&point=D6AD75&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY](https://github-readme-activity-graph.vercel.app/graph?username=omonjon3992\&bg_color=1C100D\&color=F5E6D3\&line=C68E55\&point=D6AD75\&area=true\&hide_border=true\&custom_title=CONTRIBUTION%20ACTIVITY)"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=omonjon3992&bg_color=1C100D&color=F5E6D3&line=C68E55&point=D6AD75&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"/>
 
-\</div>
+</div>
 
 ---
 
-\<div align="center">
+<div align="center">
 
-# 05 / CURRENT FOCUS
+## 05 — CURRENT FOCUS
 
-\</div>
+</div>
 
-\<table>
-\<tr>
-\<td align="center" width="25%">
+<table>
+<tr>
+<td align="center" width="25%">
 
 ### 🤖
 
@@ -287,8 +287,8 @@ An IoT-based smart waste management concept focused on monitoring waste containe
 
 LLMs & AI Agents
 
-\</td>
-\<td align="center" width="25%">
+</td>
+<td align="center" width="25%">
 
 ### 💻
 
@@ -296,8 +296,8 @@ LLMs & AI Agents
 
 Architecture & APIs
 
-\</td>
-\<td align="center" width="25%">
+</td>
+<td align="center" width="25%">
 
 ### 🌐
 
@@ -305,8 +305,8 @@ Architecture & APIs
 
 Modern Web Applications
 
-\</td>
-\<td align="center" width="25%">
+</td>
+<td align="center" width="25%">
 
 ### 🚀
 
@@ -314,38 +314,40 @@ Modern Web Applications
 
 SaaS & Startups
 
-\</td>
-\</tr>
-\</table>
+</td>
+</tr>
+</table>
 
 ---
 
-\<div align="center">
+<div align="center">
 
-# 06 / MY PHILOSOPHY
+## 06 — MY PHILOSOPHY
 
 ### "Don't just imagine the future. Build it."
 
 *Curiosity drives innovation. Engineering makes it real.*
 
-\<br/>
+<br/>
 
 ---
 
-# 07 / LET'S CONNECT
+## 07 — LET'S CONNECT
 
 **Open to interesting ideas, collaborations, and opportunities.**
 
-\<br/>
+<br/>
 
-\<a href="[https://github.com/omonjon3992](https://github.com/omonjon3992)"> \<img src="[https://img.shields.io/badge/GITHUB-1C100D?style=for-the-badge&logo=github&logoColor=D6AD75](https://img.shields.io/badge/GITHUB-1C100D?style=for-the-badge\&logo=github\&logoColor=D6AD75)"/> \</a>
+<a href="https://github.com/omonjon3992">
+<img src="https://img.shields.io/badge/GITHUB-1C100D?style=for-the-badge&logo=github&logoColor=D6AD75"/>
+</a>
 
-\<br/>\<br/>
+<br/><br/>
 
-\<img width="100%" src="[https://capsule-render.vercel.app/api?type=rect&height=100&color=0:1C100D,40:3B241B,75:6F4E37,100\:C68E55&section=footer](https://capsule-render.vercel.app/api?type=rect\&height=100\&color=0:1C100D,40:3B241B,75:6F4E37,100\:C68E55\&section=footer)"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:1C100D,40:3B241B,75:6F4E37,100:C68E55&section=footer"/>
 
 **© 2026 Omonjon Xayrullayev**
 
 *Designed with passion. Built with code.*
 
-\</div>
+</div>
